@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RemoteQTH.com")(type "KiCad")(uri "${KICAD_REMOTEQTH_SYMBOLS}/RemoteQTH.kicad_sym")(options "")(descr ""))
+)
